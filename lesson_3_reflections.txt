@@ -11,3 +11,6 @@ Branches are good when trying to add new features
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can see what changes other users have made to our repository
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Another way to collaborate is through SVN. THe point of entry is easier, but it's more difficult to create branches and work on different sections of code.
