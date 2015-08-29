@@ -7,4 +7,7 @@ That way you can decide when you're ready to test your changes against the lates
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks only work when copying a repository from one github accunt to another. Good for getting another user's repository to work on
 Clones work with copying a repository from either GitHub or your computer to a directory in your computer. Good for when you want direct access to the original repository
-Bracnhes are good when trying to add new features
+Branches are good when trying to add new features
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We can see what changes other users have made to our repository
